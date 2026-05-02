@@ -1,0 +1,16 @@
+{
+  "cases": [
+    {
+      "name": "summary_only",
+      "task": "Summarize the incident queue and keep the answer compact.",
+      "expected_tools": ["summarize"],
+      "expected_answer_contains": ["summarize:"]
+    },
+    {
+      "name": "risk_and_handoff",
+      "task": "Urgent risk review with next step handoff for an operations queue.",
+      "expected_tools": ["risk_score", "handoff"],
+      "expected_answer_contains": ["risk_score:", "handoff:"]
+    }
+  ]
+}
