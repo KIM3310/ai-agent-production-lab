@@ -39,6 +39,10 @@ The demo writes:
 
 This repository does not try to simulate a full model provider. It isolates the production concerns around an agent loop: tool allowlisting, bounded execution, trace shape, evaluation scoring, and reproducible reports.
 
+## Consolidated Patterns
+
+- [Provider-neutral agent patterns](docs/provider-neutral-agent-patterns.md) folds scattered cookbook notes into a single runtime, eval, tracing, retrieval, and fallback checklist.
+
 ## Project Layout
 
 ```text
@@ -48,6 +52,8 @@ agent_lab/
   report.py    # JSON and HTML report writer
 examples/
   tasks.json   # deterministic eval cases
+docs/
+  provider-neutral-agent-patterns.md
 scripts/
   run_demo.py  # local report generator
 tests/
