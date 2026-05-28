@@ -21,6 +21,10 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 - **Verification:** Run `python3 -m unittest discover -s tests` and `python3 -m agent_lab.evals examples/tasks.json`.
 - **Commercial read:** Position this as a paid agent-readiness assessment kit, not a generic agent toy.
 
+## Commercialization Playbook
+
+- [Monetization and GTM playbook](docs/monetization-playbook.md) maps the repository to buyer segments, offer ladder, pricing hypotheses, proof gates, and risk boundaries.
+
 ## What It Demonstrates
 
 - bounded tool execution
