@@ -2,6 +2,18 @@
 
 Self-contained lab for agent runtime reliability, evaluation, tracing, and cost accounting. The lab uses a deterministic planner so the full workflow can be tested without external APIs or credentials.
 
+## Product and Review Surface
+
+A production-readiness lab for agents that makes planning, tracing, cost, and evaluation visible before real rollout.
+
+| Lens | Definition |
+|---|---|
+| Buyer or user | AI platform teams, backend teams, and product teams moving agents beyond demos. |
+| Commercial route | Sell readiness assessments, CI eval packs, trace/cost instrumentation setup, and agent rollout reviews. |
+| Review signal | Deterministic planning fixtures, traces, cost accounting, eval assertions, and HTML reports. |
+| Safety boundary | Lab fixtures are controlled; production rollouts need workflow-specific evals, rate limits, and approval paths. |
+| Fast proof | Run the lab scripts and inspect generated HTML reports, traces, and eval assertions. |
+
 ## What It Demonstrates
 
 - bounded tool execution
