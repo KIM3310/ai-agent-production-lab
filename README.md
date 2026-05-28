@@ -14,6 +14,13 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 | Safety boundary | Lab fixtures are controlled; production rollouts need workflow-specific evals, rate limits, and approval paths. |
 | Fast proof | Run the lab scripts and inspect generated HTML reports, traces, and eval assertions. |
 
+## Reviewer Fast Path
+
+- **First minute:** Read the trace/cost/eval loop before looking at individual tools.
+- **Local demo:** Run `python3 scripts/run_demo.py` and open the generated HTML report under `artifacts/`.
+- **Verification:** Run `python3 -m unittest discover -s tests` and `python3 -m agent_lab.evals examples/tasks.json`.
+- **Commercial read:** Position this as a paid agent-readiness assessment kit, not a generic agent toy.
+
 ## What It Demonstrates
 
 - bounded tool execution
