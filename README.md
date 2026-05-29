@@ -27,7 +27,7 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 
 ## Executive Proof Pack
 
-- [Reviewer evidence map](docs/reviewer-evidence-map.md) gives a 7-minute route through the strongest hiring, buyer, and architecture signals.
+- [Reviewer evidence map](docs/reviewer-evidence-map.md) gives a 7-minute route through the strongest technical, buyer, and architecture signals.
 - [Quality gate](docs/quality-gate.md) lists the local checks, CI surface, release boundary, and no-key/demo expectations for this repository.
 
 ## What It Demonstrates
