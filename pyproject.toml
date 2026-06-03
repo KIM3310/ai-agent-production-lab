@@ -10,5 +10,10 @@ requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [{ name = "KIM3310" }]
 
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3,<10",
+]
+
 [tool.setuptools.packages.find]
 include = ["agent_lab*"]
