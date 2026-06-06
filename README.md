@@ -1,5 +1,10 @@
 # AI Agent Production Lab
 
+## Live Demo
+
+- [Open the public GitHub Pages demo](https://kim3310.github.io/ai-agent-production-lab/)
+- Scope: credential-free, synthetic-data demo for reviewers and evaluators.
+
 Self-contained lab for agent runtime reliability, evaluation, tracing, and cost accounting. The lab uses a deterministic planner so the full workflow can be tested without external APIs or credentials.
 
 ## Product and Review Surface
