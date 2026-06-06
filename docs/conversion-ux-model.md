@@ -2,7 +2,7 @@
 
 Updated: 2026-05-30
 
-This note specializes the repository for revenue. It combines product strategy, UX design, behavioral economics, and neuroscience-informed attention and working-memory design in a practical way: reduce confusion, build trust, help the right user act, and avoid manipulative conversion patterns.
+This note specializes the repository for service launch. It combines product strategy, UX design, behavioral economics, and neuroscience-informed attention and working-memory design in a practical way: reduce confusion, build trust, help the right user act, and avoid manipulative conversion patterns.
 
 ## Commercial Focus
 
@@ -12,7 +12,7 @@ This note specializes the repository for revenue. It combines product strategy, 
 | Lane | B2B agent readiness lab |
 | Primary buyer or user | Product teams moving agents from demo to operational release. |
 | Value wedge | Credential-free lab for tracing, evals, cost accounting, and bounded tool execution. |
-| Revenue model | Developer tooling support, integration, audit, or package sponsorship |
+| Service model | Developer tooling support, integration, audit, or package sponsorship |
 | Operating note | Show reliability proof first, then sell integration, custom adapters, support, or evaluation setup. |
 | Best channel | Technical articles, GitHub package surface, benchmark reports, and direct platform-team outreach. |
 
@@ -53,7 +53,7 @@ This note specializes the repository for revenue. It combines product strategy, 
 - Paid entry: Agent readiness assessment ($2k-$6k readiness review) tied to one integration or reliability question.
 - Expansion: CI eval setup ($8k-$24k CI setup) and Trace/cost instrumentation package ($1k-$5k/month eval operations) after internal adoption starts.
 
-## Pricing Frame
+## Scope Frame
 
 - Price against integration time, reliability risk, maintenance burden, or evaluation coverage.
 - Let open proof reduce adoption friction, then charge for adaptation, support, or governance.
@@ -67,8 +67,8 @@ This note specializes the repository for revenue. It combines product strategy, 
 
 ## Ethical Guardrails
 
-- No fake users, fake logos, fake revenue, fake benchmarks, or unverifiable endorsements.
-- No urgency timers, hidden opt-outs, forced continuity, or confusing pricing.
+- No fake users, fake logos, fake financial outcomes, fake benchmarks, or unverifiable endorsements.
+- No urgency timers, hidden opt-outs, forced continuity, or confusing scope.
 - Conversion prompts should come after value or evidence, not before.
 - Data collection should be minimal, visible, and tied to product value.
 - Synthetic fixtures are not production evals
