@@ -12,7 +12,7 @@ This is the buyer-ready version of the repository. It turns the technical proof 
 | Buyer | Product teams moving agents from demo to operational release. |
 | Pain wedge | Credential-free lab for tracing, evals, cost accounting, and bounded tool execution. |
 | Front-door offer | Agent readiness assessment |
-| Entry scope | $2k-$6k readiness review |
+| Entry scope | Scope after buyer intake |
 | Proof before pitch | Unit tests pass |
 | Next buyer action | Review one proof artifact, then choose diagnostic, workshop, pilot, support, or revival path. |
 
@@ -20,9 +20,9 @@ This is the buyer-ready version of the repository. It turns the technical proof 
 
 | Offer | Scope assumption | Buyer-facing scope |
 |---|---|---|
-| Agent readiness assessment | $2k-$6k readiness review | Publish readiness scorecard |
-| CI eval setup | $8k-$24k CI setup | Create eval intake template |
-| Trace/cost instrumentation package | $1k-$5k/month eval operations | Run one paid assessment |
+| Agent readiness assessment | Scope after buyer intake | Publish readiness scorecard |
+| CI eval setup | Scope after buyer intake | Create eval intake template |
+| Trace/cost instrumentation package | Scope after buyer intake | Run one paid assessment |
 
 ## Close Path
 

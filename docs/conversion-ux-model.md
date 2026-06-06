@@ -50,8 +50,8 @@ This note specializes the repository for service launch. It combines product str
 ## Conversion Path
 
 - Free proof: runnable sample, benchmark, or package install.
-- Paid entry: Agent readiness assessment ($2k-$6k readiness review) tied to one integration or reliability question.
-- Expansion: CI eval setup ($8k-$24k CI setup) and Trace/cost instrumentation package ($1k-$5k/month eval operations) after internal adoption starts.
+- Paid entry: Agent readiness assessment (scope after buyer intake) tied to one integration or reliability question.
+- Expansion: CI eval setup (scope after buyer intake) and Trace/cost instrumentation package (scope after buyer intake) after internal adoption starts.
 
 ## Scope Frame
 

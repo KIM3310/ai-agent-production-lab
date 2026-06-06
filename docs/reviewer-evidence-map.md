@@ -47,9 +47,9 @@ Use this page as the short path through the repository. It keeps the review grou
 
 | Possible offer | Working scope assumption |
 |---|---|
-| Agent readiness assessment | $2k-$6k readiness review |
-| CI eval setup | $8k-$24k CI setup |
-| Trace/cost instrumentation package | $1k-$5k/month eval operations |
+| Agent readiness assessment | Scope after buyer intake |
+| CI eval setup | Scope after buyer intake |
+| Trace/cost instrumentation package | Scope after buyer intake |
 
 ## Boundaries
 
