@@ -43,13 +43,13 @@ Use this page as the short path through the repository. It keeps the review grou
 - Demo report is generated
 - Cost and trace artifacts are inspectable
 
-## Commercial Notes
+## Review Notes
 
 | Possible offer | Working scope assumption |
 |---|---|
-| Agent readiness assessment | Scope after buyer intake |
-| CI eval setup | Scope after buyer intake |
-| Trace/cost instrumentation package | Scope after buyer intake |
+| Agent readiness assessment | Scope after reviewer intake |
+| CI eval setup | Scope after reviewer intake |
+| Trace/cost instrumentation package | Scope after reviewer intake |
 
 ## Boundaries
 
