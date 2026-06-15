@@ -15,7 +15,7 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 |---|---|
 | Audience | AI platform teams, backend teams, and product teams moving agents beyond demos. |
 | Review path | Validate the demo, README, architecture notes, and quality gate before deeper workflow review. |
-| Review signal | Deterministic planning fixtures, traces, cost accounting, eval assertions, and HTML reports. |
+| Architecture signal | Deterministic planning fixtures, traces, cost accounting, eval assertions, and HTML reports. |
 | Safety boundary | Lab fixtures are controlled; production rollouts need workflow-specific evals, rate limits, and approval paths. |
 | Fast proof | Run the lab scripts and inspect generated HTML reports, traces, and eval assertions. |
 
@@ -113,6 +113,10 @@ This repository includes a neutral cloud and AI engineering blueprint that maps 
 ## Enterprise Productization
 
 - [Product operating model](docs/product-operating-model.md) defines the reviewer, trust boundary, trust boundary, operating checks, and service path for this repository.
+
+## System Architecture
+
+- [System architecture](docs/system-architecture.md) maps the runtime boundary, data/control flow, cloud or local deployment surface, and operating assumptions for this repository.
 
 ## Service Architecture
 
