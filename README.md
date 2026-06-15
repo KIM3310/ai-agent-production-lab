@@ -3,23 +3,23 @@
 ## Live Demo
 
 - [Open the public GitHub Pages demo](https://kim3310.github.io/ai-agent-production-lab/)
-- Scope: credential-free, synthetic-data demo for reviewers and evaluators.
+- Scope: credential-free, synthetic-data demo for technical readers and evaluators.
 
 Self-contained lab for agent runtime reliability, evaluation, tracing, and cost accounting. The lab uses a deterministic planner so the full workflow can be tested without external APIs or credentials.
 
-## Product and Review Surface
+## Product and System Surface
 
 A production-readiness lab for agents that makes planning, tracing, cost, and evaluation visible before real rollout.
 
 | Lens | Definition |
 |---|---|
 | Audience | AI platform teams, backend teams, and product teams moving agents beyond demos. |
-| Review path | Validate the demo, README, architecture notes, and quality gate before deeper workflow review. |
-| Architecture signal | Deterministic planning fixtures, traces, cost accounting, eval assertions, and HTML reports. |
+| Architecture path | Validate the demo, README, architecture notes, and quality gate before deeper workflow architecture. |
+| System signal | Deterministic planning fixtures, traces, cost accounting, eval assertions, and HTML reports. |
 | Safety boundary | Lab fixtures are controlled; production rollouts need workflow-specific evals, rate limits, and approval paths. |
-| Fast proof | Run the lab scripts and inspect generated HTML reports, traces, and eval assertions. |
+| Fast path | Run the lab scripts and inspect generated HTML reports, traces, and eval assertions. |
 
-## Reviewer Fast Path
+## System Fast Path
 
 - **First minute:** Read the trace/cost/eval loop before looking at individual tools.
 - **Local demo:** Run `python3 scripts/run_demo.py` and open the generated HTML report under `artifacts/`.
@@ -27,11 +27,11 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 
 ## Service Launch Playbook
 
-- [Service launch playbook](docs/service-launch-playbook.md) maps the repository to review audiences, proof gates, operating boundaries, and risk controls.
+- [Service launch playbook](docs/service-launch-playbook.md) maps the repository to architecture audiences, operating gates, operating boundaries, and risk controls.
 
-## Review Notes
+## Architecture Notes
 
-- [Review guide](docs/reviewer-evidence-map.md) summarizes the project angle, first files to inspect, verification commands, and known boundaries.
+- [Architecture guide](docs/architecture-evidence-map.md) summarizes the project angle, first files to inspect, runtime commands, and known boundaries.
 - [Quality notes](docs/quality-gate.md) lists the local checks, CI surface, and release expectations for this repository.
 - [Enterprise readiness notes](docs/enterprise-readiness.md) outlines security, data, operations, integration, and handoff expectations.
 
@@ -112,7 +112,7 @@ This repository includes a neutral cloud and AI engineering blueprint that maps 
 
 ## Enterprise Productization
 
-- [Product operating model](docs/product-operating-model.md) defines the reviewer, trust boundary, trust boundary, operating checks, and service path for this repository.
+- [Product operating model](docs/product-operating-model.md) defines the technical reader, trust boundary, trust boundary, operating checks, and service path for this repository.
 
 ## System Architecture
 
