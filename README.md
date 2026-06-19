@@ -129,7 +129,7 @@ This repository includes a neutral cloud and AI engineering blueprint that maps 
 - Public entry: free production checklist and sample report
 - Paid boundary: paid readiness report, hardened template pack, and hosted scorecard dashboard
 - Canonical URL: https://kim3310.github.io/ai-agent-production-lab/
-- Lead capture: mailto:ehdjs1351@gmail.com?subject=AI%20Agent%20Production%20Lab%20private%20workspace&body=I%20am%20interested%20in%20paid%20readiness%20report%2C%20hardened%20template%20pack%2C%20and%20hosted%20scorecard%20dashboard%20for%20AI%20Agent%20Production%20Lab.
+- Lead capture: https://github.com/KIM3310/ai-agent-production-lab/issues/new?template=service-inquiry.yml&title=Private+workspace+inquiry%3A+AI+Agent+Production+Lab
 - Machine-readable offer: [docs/service-offer.json](docs/service-offer.json)
 - Search growth implementation: [docs/search-growth-implementation.md](docs/search-growth-implementation.md)
 - Revenue architecture: [docs/revenue-architecture.md](docs/revenue-architecture.md)

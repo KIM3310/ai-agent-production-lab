@@ -5,7 +5,7 @@
   "repository_url": "https://github.com/KIM3310/ai-agent-production-lab",
   "architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/system-architecture.md",
   "revenue_architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md",
-  "lead_capture_url": "mailto:ehdjs1351@gmail.com?subject=AI%20Agent%20Production%20Lab%20private%20workspace&body=I%20am%20interested%20in%20paid%20readiness%20report%2C%20hardened%20template%20pack%2C%20and%20hosted%20scorecard%20dashboard%20for%20AI%20Agent%20Production%20Lab.",
+  "lead_capture_url": "https://github.com/KIM3310/ai-agent-production-lab/issues/new?template=service-inquiry.yml&title=Private+workspace+inquiry%3A+AI+Agent+Production+Lab",
   "productized_offer": "production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts",
   "first_paid_sku": "paid readiness report, hardened template pack, and hosted scorecard dashboard",
   "free_lead_magnet": "free production checklist and sample report",
