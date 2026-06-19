@@ -1,0 +1,73 @@
+{
+  "name": "AI Agent Production Lab",
+  "slug": "ai-agent-production-lab",
+  "canonical_url": "https://kim3310.github.io/ai-agent-production-lab/",
+  "repository_url": "https://github.com/KIM3310/ai-agent-production-lab",
+  "architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/system-architecture.md",
+  "revenue_architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md",
+  "lead_capture_url": "mailto:ehdjs1351@gmail.com?subject=AI%20Agent%20Production%20Lab%20private%20workspace&body=I%20am%20interested%20in%20paid%20readiness%20report%2C%20hardened%20template%20pack%2C%20and%20hosted%20scorecard%20dashboard%20for%20AI%20Agent%20Production%20Lab.",
+  "productized_offer": "production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts",
+  "first_paid_sku": "paid readiness report, hardened template pack, and hosted scorecard dashboard",
+  "free_lead_magnet": "free production checklist and sample report",
+  "search_positioning": {
+    "primary_query": "AI Agent Production Lab production-readiness guardrails tracing",
+    "secondary_queries": [
+      "AI Agent Production Lab demo",
+      "AI Agent Production Lab system architecture",
+      "AI Agent Production Lab developer tool",
+      "production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts service"
+    ],
+    "audience_intent": "Find a runnable demo, inspect the system architecture, and decide whether a private workspace or implementation package is useful."
+  },
+  "monetization_boundary": {
+    "free": "free production checklist and sample report",
+    "paid": "paid readiness report, hardened template pack, and hosted scorecard dashboard",
+    "metering_hooks": [
+      "workspace_id",
+      "plan",
+      "quota_day",
+      "export_count",
+      "lead_source"
+    ],
+    "cost_guardrails": [
+      "static first",
+      "edge functions",
+      "customer API keys",
+      "cached AI outputs",
+      "synthetic public data"
+    ]
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "AI Agent Production Lab",
+    "applicationCategory": "DeveloperApplication",
+    "operatingSystem": "Web, serverless, and local development environments",
+    "url": "https://kim3310.github.io/ai-agent-production-lab/",
+    "codeRepository": "https://github.com/KIM3310/ai-agent-production-lab",
+    "description": "AI Agent Production Lab: production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts. Free entry point: free production checklist and sample report. Paid path: paid readiness report.",
+    "creator": {
+      "@type": "Person",
+      "name": "KIM3310",
+      "url": "https://github.com/KIM3310"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "free production checklist and sample report",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://kim3310.github.io/ai-agent-production-lab/"
+      },
+      {
+        "@type": "Offer",
+        "name": "paid readiness report, hardened template pack, and hosted scorecard dashboard",
+        "availability": "https://schema.org/LimitedAvailability",
+        "url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": "ai-agent-production-lab, Agent, Production, Lab, production-readiness, lab, guardrails, tracing, deployment, checklist, artifacts, readiness, hardened, template, pack, hosted, scorecard, dashboard, production, sample, tier, Cloudflare, Pages"
+  }
+}
