@@ -69,5 +69,29 @@
     ],
     "isAccessibleForFree": true,
     "keywords": "ai-agent-production-lab, Agent, Production, Lab, production-readiness, lab, guardrails, tracing, deployment, checklist, artifacts, readiness, hardened, template, pack, hosted, scorecard, dashboard, production, sample, tier, Cloudflare, Pages"
+  },
+  "commerce": {
+    "gateway_url": "https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers",
+    "lane_id": "stagepilot-reliability-lab",
+    "lane_name": "StagePilot Reliability Lab",
+    "billing_mode": "one-time",
+    "price_unit": "reliability report pack from USD 500",
+    "fulfillment_kind": "private scenario suite, trace review, retry and parser findings, and provider scorecard",
+    "risk_bucket": "standard-b2b",
+    "checkout": {
+      "provider": "lemon-squeezy",
+      "status": "account-onboarding-required",
+      "fallback_url": "https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers"
+    },
+    "sponsorship": {
+      "provider": "github-sponsors",
+      "eligible": true,
+      "status": "account-onboarding-required"
+    },
+    "advertising": {
+      "provider": null,
+      "eligible": false,
+      "status": "not-applicable"
+    }
   }
 }

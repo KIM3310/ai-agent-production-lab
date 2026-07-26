@@ -11,6 +11,7 @@ This repository now exposes a search-readable service surface in addition to the
 | System architecture | [docs/system-architecture.md](./system-architecture.md) |
 | Public canonical URL | https://kim3310.github.io/ai-agent-production-lab/ |
 | Lead capture URL | https://github.com/KIM3310/ai-agent-production-lab/issues/new?template=service-inquiry.yml&title=Private+workspace+inquiry%3A+AI+Agent+Production+Lab |
+| Commercial route | https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers |
 
 ## Search Positioning
 
