@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- [Open the public GitHub Pages demo](https://kim3310.github.io/ai-agent-production-lab/)
+- [Open the public GitHub Pages demo](https://ai-agent-production-lab.pages.dev/)
 - Scope: credential-free, synthetic-data demo for product teams and technical evaluators.
 
 Self-contained lab for agent runtime reliability, evaluation, tracing, and cost accounting. The lab uses a deterministic planner so the full workflow can be tested without external APIs or credentials.
@@ -132,7 +132,7 @@ All fixtures are synthetic.
 
 - Public entry: free production checklist and sample report
 - Paid boundary: Agent Reliability Audit fixed-scope private audit from USD 1,500
-- Canonical URL: https://kim3310.github.io/ai-agent-production-lab/
+- Canonical URL: https://ai-agent-production-lab.pages.dev/
 - Lead capture: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry
 - Resource route: https://kim3310-doeon-kim-portfolio.pages.dev/resources/ai-agent-production-lab/
 - Commercial route: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers

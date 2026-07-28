@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kim3310.github.io/ai-agent-production-lab/sitemap.xml
+Sitemap: https://ai-agent-production-lab.pages.dev/sitemap.xml

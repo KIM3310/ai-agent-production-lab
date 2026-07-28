@@ -1,7 +1,7 @@
 {
   "name": "AI Agent Production Lab",
   "slug": "ai-agent-production-lab",
-  "canonical_url": "https://kim3310.github.io/ai-agent-production-lab/",
+  "canonical_url": "https://ai-agent-production-lab.pages.dev/",
   "repository_url": "https://github.com/KIM3310/ai-agent-production-lab",
   "architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/system-architecture.md",
   "revenue_architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md",
@@ -43,7 +43,7 @@
     "name": "AI Agent Production Lab",
     "applicationCategory": "DeveloperApplication",
     "operatingSystem": "Web, serverless, and local development environments",
-    "url": "https://kim3310.github.io/ai-agent-production-lab/",
+    "url": "https://ai-agent-production-lab.pages.dev/",
     "codeRepository": "https://github.com/KIM3310/ai-agent-production-lab",
     "description": "AI Agent Production Lab: synthetic public reliability demo for traces, eval assertions, and cost accounting. Paid path: Agent Reliability Audit private scenario and trace review.",
     "creator": {
@@ -58,7 +58,7 @@
         "price": "0",
         "priceCurrency": "USD",
         "availability": "https://schema.org/InStock",
-        "url": "https://kim3310.github.io/ai-agent-production-lab/"
+        "url": "https://ai-agent-production-lab.pages.dev/"
       },
       {
         "@type": "Offer",

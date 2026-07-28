@@ -2,7 +2,7 @@
 
 ## Public Demo
 
-- URL: https://kim3310.github.io/ai-agent-production-lab/
+- URL: https://ai-agent-production-lab.pages.dev/
 - Scope: credential-free synthetic demo surface for quick technical evaluation.
 
 Repository: `ai-agent-production-lab`

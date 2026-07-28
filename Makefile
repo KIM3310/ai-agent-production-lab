@@ -11,7 +11,7 @@ PYTHON ?= $(shell for py in $(PYTHON_CANDIDATES); do \
 	fi; \
 done)
 
-.PHONY: check-python install test verify
+.PHONY: check-python install test verify pages-deploy
 
 check-python:
 	@if [ -z "$(PYTHON)" ]; then \
@@ -38,3 +38,6 @@ test: install
 	$(VENV_PYTHON) -m pytest -q
 
 verify: test
+
+pages-deploy:
+	npx --yes wrangler@4 pages deploy site --project-name ai-agent-production-lab

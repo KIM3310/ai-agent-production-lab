@@ -8,7 +8,7 @@ Free production-agent launch checklist covering observability, evals, and rollba
 
 - Audience: AI product engineers and platform owners
 - Central resource: https://kim3310-doeon-kim-portfolio.pages.dev/resources/ai-agent-production-lab/
-- Live system: https://kim3310.github.io/ai-agent-production-lab/
+- Live system: https://ai-agent-production-lab.pages.dev/
 - Advertising boundary: ads allowed only on public launch-readiness pages; production-lab runs, logs, and dashboards are ad-free
 - Current ad state: code-ready on the central resource; serving depends on Google AdSense site approval and consent policy.
 

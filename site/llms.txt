@@ -3,7 +3,7 @@
 Purpose: agent reliability audit proof surface with guardrails, trace review, failure taxonomy, provider scorecard, and remediation plan
 Free entry point: free production checklist and sample report
 Paid boundary: Agent Reliability Audit fixed-scope private audit from USD 1,500
-Canonical URL: https://kim3310.github.io/ai-agent-production-lab/
+Canonical URL: https://ai-agent-production-lab.pages.dev/
 Repository: https://github.com/KIM3310/ai-agent-production-lab
 System architecture: https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/system-architecture.md
 Revenue architecture: https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md
