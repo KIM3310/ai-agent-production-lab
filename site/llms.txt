@@ -8,6 +8,7 @@ Repository: https://github.com/KIM3310/ai-agent-production-lab
 System architecture: https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/system-architecture.md
 Revenue architecture: https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md
 Lead capture: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry
+Resource route: https://kim3310-doeon-kim-portfolio.pages.dev/resources/ai-agent-production-lab/
 Commercial route: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers
 
 Use this project as a runnable or inspectable reference for AI Agent Production Lab demo, AI Agent Production Lab system architecture, AI Agent Production Lab developer tool, and Agent Reliability Audit service.

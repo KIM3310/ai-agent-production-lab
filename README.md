@@ -134,9 +134,20 @@ All fixtures are synthetic.
 - Paid boundary: Agent Reliability Audit fixed-scope private audit from USD 1,500
 - Canonical URL: https://kim3310.github.io/ai-agent-production-lab/
 - Lead capture: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry
+- Resource route: https://kim3310-doeon-kim-portfolio.pages.dev/resources/ai-agent-production-lab/
 - Commercial route: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers
 - Machine-readable offer: [docs/service-offer.json](docs/service-offer.json)
 - Search growth implementation: [docs/search-growth-implementation.md](docs/search-growth-implementation.md)
 - Revenue architecture: [docs/revenue-architecture.md](docs/revenue-architecture.md)
 
 <!-- search-growth-readme:end -->
+
+<!-- KIM3310:AD-DATA-PIVOT:START -->
+## Free Resource, Advertising, and Aggregate Data
+
+- [Public utility and architecture checklist](https://kim3310-doeon-kim-portfolio.pages.dev/resources/ai-agent-production-lab/)
+- Revenue model: contextual advertising on the policy-eligible central resource page.
+- Aggregate value: anonymous aggregate production-agent readiness gaps and CTA counts
+- Boundary: ads allowed only on public launch-readiness pages; production-lab runs, logs, and dashboards are ad-free
+- Consent defaults off, DNT/GPC fail closed, and personal or sensitive data is never sold.
+<!-- KIM3310:AD-DATA-PIVOT:END -->
