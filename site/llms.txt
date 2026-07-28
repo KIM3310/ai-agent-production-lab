@@ -12,3 +12,9 @@ Resource route: https://kim3310-doeon-kim-portfolio.pages.dev/resources/ai-agent
 Commercial route: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers
 
 Use this project as a runnable or inspectable reference for AI Agent Production Lab demo, AI Agent Production Lab system architecture, AI Agent Production Lab developer tool, and Agent Reliability Audit service.
+# ADSENSE-PUBLICATION:START
+Editorial guide: https://ai-agent-production-lab.pages.dev/guide.html
+Architecture article: https://ai-agent-production-lab.pages.dev/architecture.html
+Verification article: https://ai-agent-production-lab.pages.dev/verification.html
+Publisher information: https://ai-agent-production-lab.pages.dev/publisher.html
+# ADSENSE-PUBLICATION:END
