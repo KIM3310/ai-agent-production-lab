@@ -19,6 +19,12 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 | Operating boundary | Lab fixtures are controlled; production rollouts need workflow-specific evals, rate limits, and approval paths. |
 | Evaluation path | Run the lab scripts and inspect generated HTML reports, traces, and eval assertions. |
 
+## Paid Service CTA
+
+- Public demo boundary: credential-free, synthetic, deterministic proof surface; it does not inspect customer systems or certify production readiness by itself.
+- Paid service: **Agent Reliability Audit** for private scenario review, trace review, failure taxonomy, provider scorecard, and prioritized remediation plan.
+- Private inquiry: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry
+
 ## Evaluation Path
 
 - **Start here:** Read the trace/cost/eval loop before looking at individual tools.
@@ -125,9 +131,9 @@ All fixtures are synthetic.
 ## Search And Service Surface
 
 - Public entry: free production checklist and sample report
-- Paid boundary: paid readiness report, hardened template pack, and hosted scorecard dashboard
+- Paid boundary: Agent Reliability Audit fixed-scope private audit from USD 1,500
 - Canonical URL: https://kim3310.github.io/ai-agent-production-lab/
-- Lead capture: https://github.com/KIM3310/ai-agent-production-lab/issues/new?template=service-inquiry.yml&title=Private+workspace+inquiry%3A+AI+Agent+Production+Lab
+- Lead capture: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry
 - Commercial route: https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers
 - Machine-readable offer: [docs/service-offer.json](docs/service-offer.json)
 - Search growth implementation: [docs/search-growth-implementation.md](docs/search-growth-implementation.md)

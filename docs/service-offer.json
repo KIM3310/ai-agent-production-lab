@@ -5,9 +5,9 @@
   "repository_url": "https://github.com/KIM3310/ai-agent-production-lab",
   "architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/system-architecture.md",
   "revenue_architecture_url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md",
-  "lead_capture_url": "https://github.com/KIM3310/ai-agent-production-lab/issues/new?template=service-inquiry.yml&title=Private+workspace+inquiry%3A+AI+Agent+Production+Lab",
-  "productized_offer": "production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts",
-  "first_paid_sku": "paid readiness report, hardened template pack, and hosted scorecard dashboard",
+  "lead_capture_url": "https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry",
+  "productized_offer": "agent reliability audit with guardrails, trace review, failure taxonomy, provider scorecard, and remediation plan",
+  "first_paid_sku": "Agent Reliability Audit fixed-scope private audit from USD 1,500",
   "free_lead_magnet": "free production checklist and sample report",
   "search_positioning": {
     "primary_query": "AI Agent Production Lab production-readiness guardrails tracing",
@@ -15,13 +15,13 @@
       "AI Agent Production Lab demo",
       "AI Agent Production Lab system architecture",
       "AI Agent Production Lab developer tool",
-      "production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts service"
+      "Agent Reliability Audit service"
     ],
     "audience_intent": "Find a runnable demo, inspect the system architecture, and decide whether a private workspace or implementation package is useful."
   },
   "monetization_boundary": {
     "free": "free production checklist and sample report",
-    "paid": "paid readiness report, hardened template pack, and hosted scorecard dashboard",
+    "paid": "Agent Reliability Audit fixed-scope private audit from USD 1,500",
     "metering_hooks": [
       "workspace_id",
       "plan",
@@ -45,7 +45,7 @@
     "operatingSystem": "Web, serverless, and local development environments",
     "url": "https://kim3310.github.io/ai-agent-production-lab/",
     "codeRepository": "https://github.com/KIM3310/ai-agent-production-lab",
-    "description": "AI Agent Production Lab: production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts. Free entry point: free production checklist and sample report. Paid path: paid readiness report.",
+    "description": "AI Agent Production Lab: synthetic public reliability demo for traces, eval assertions, and cost accounting. Paid path: Agent Reliability Audit private scenario and trace review.",
     "creator": {
       "@type": "Person",
       "name": "KIM3310",
@@ -62,9 +62,9 @@
       },
       {
         "@type": "Offer",
-        "name": "paid readiness report, hardened template pack, and hosted scorecard dashboard",
+        "name": "Agent Reliability Audit",
         "availability": "https://schema.org/LimitedAvailability",
-        "url": "https://github.com/KIM3310/ai-agent-production-lab/blob/main/docs/revenue-architecture.md"
+        "url": "https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry"
       }
     ],
     "isAccessibleForFree": true,
@@ -72,20 +72,20 @@
   },
   "commerce": {
     "gateway_url": "https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers",
-    "lane_id": "stagepilot-reliability-lab",
-    "lane_name": "StagePilot Reliability Lab",
+    "lane_id": "agent-reliability-audit",
+    "lane_name": "Agent Reliability Audit",
     "billing_mode": "one-time",
-    "price_unit": "reliability report pack from USD 500",
-    "fulfillment_kind": "private scenario suite, trace review, retry and parser findings, and provider scorecard",
+    "price_unit": "fixed audit from USD 1,500",
+    "fulfillment_kind": "private scenario suite, trace review, failure taxonomy, provider scorecard, and prioritized remediation plan",
     "risk_bucket": "standard-b2b",
     "checkout": {
-      "provider": "lemon-squeezy",
-      "status": "account-onboarding-required",
-      "fallback_url": "https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab#service-offers"
+      "provider": null,
+      "status": "not-configured",
+      "fallback_url": "https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry"
     },
     "sponsorship": {
       "provider": "github-sponsors",
-      "eligible": true,
+      "eligible": false,
       "status": "sponsors-listing-not-configured"
     },
     "advertising": {

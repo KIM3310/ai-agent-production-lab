@@ -7,11 +7,12 @@ This document turns the repository architecture into a zero-to-low-cost service 
 | Layer | Decision |
 | --- | --- |
 | Target buyer / user | team moving agents from prototype to production controls |
-| Productized offer | production-readiness lab with guardrails, tracing, deployment checklist, and report artifacts |
-| First paid SKU | paid readiness report, hardened template pack, and hosted scorecard dashboard |
+| Productized offer | agent reliability audit with guardrails, trace review, failure taxonomy, provider scorecard, and remediation plan |
+| First paid SKU | Agent Reliability Audit fixed-scope private audit from USD 1,500 |
 | Free lead magnet | free production checklist and sample report |
-| Paid expansion | readiness assessment, report generation credits, and private implementation sprint |
+| Paid expansion | private scenario suite, trace review, provider scorecard, remediation planning, and optional implementation sprint |
 | Data / workflow moat | readiness criteria, evaluation histories, remediation patterns, and trace-to-report mappings |
+| Private inquiry | https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry |
 
 ## Free-Tier-First Launch Stack
 
@@ -51,8 +52,8 @@ flowchart LR
 
 ## 30-Day Revenue Test
 
-1. Publish the public demo or architecture page with one clear CTA: request private workspace, download a pack, or run a sample report.
-2. Add a lead capture route using Workers + D1/KV, Supabase, Firebase, or a GitHub issue form.
+1. Publish the public demo or architecture page with one clear CTA: request the Agent Reliability Audit through the private inquiry route.
+2. Route confidential and commercial requests through the [central Cloudflare D1 private inquiry](https://kim3310-doeon-kim-portfolio.pages.dev/?offer=ai-agent-production-lab&inquiry=agent-reliability-audit#private-inquiry); keep public GitHub issues limited to non-confidential product discussion.
 3. Create one downloadable artifact: report PDF, template pack, runbook, dataset sample, or export bundle.
 4. Offer a fixed-scope paid package before building subscription complexity.
 5. Track activation manually first: visits, CTA clicks, export requests, email replies, and paid pilot conversations.
