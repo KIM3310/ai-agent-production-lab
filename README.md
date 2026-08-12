@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- [Open the public GitHub Pages demo](https://ai-agent-production-lab.pages.dev/)
+- [Open the public Cloudflare Pages demo](https://ai-agent-production-lab.pages.dev/)
 - Scope: credential-free, synthetic-data demo for product teams and technical evaluators.
 
 Self-contained lab for agent runtime reliability, evaluation, tracing, and cost accounting. The lab uses a deterministic planner so the full workflow can be tested without external APIs or credentials.
@@ -14,7 +14,6 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 | Area | Details |
 |---|---|
 | Users | AI platform teams, backend teams, and product teams moving agents beyond demos. |
-| Technical path | Validate the demo, README, architecture notes, and quality gate before deeper workflow review. |
 | System scope | Deterministic planning fixtures, traces, cost accounting, eval assertions, and HTML reports. |
 | Operating boundary | Lab fixtures are controlled; production rollouts need workflow-specific evals, rate limits, and approval paths. |
 | Evaluation path | Run the lab scripts and inspect generated HTML reports, traces, and eval assertions. |

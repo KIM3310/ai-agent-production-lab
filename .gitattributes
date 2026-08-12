@@ -5,3 +5,7 @@
 *.toml text eol=lf
 *.yml text eol=lf
 *.yaml text eol=lf
+
+# Generated publication pages should not override the implementation language.
+site/*.html linguist-generated=true
+site/**/*.html linguist-generated=true
