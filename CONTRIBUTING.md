@@ -5,7 +5,7 @@ Keep the lab deterministic by default.
 Before opening a change:
 
 ```bash
-python3 -m unittest discover -s tests
+make verify
 python3 scripts/run_demo.py
 ```
 

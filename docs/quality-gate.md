@@ -16,7 +16,7 @@ These notes keep the repository easy to review without overstating what is produ
 
 | Purpose | Command |
 |---|---|
-| Test suite | `python -m pytest` |
+| Full local verification | `make verify` |
 
 ## CI
 

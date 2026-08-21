@@ -1,5 +1,7 @@
 # AI Agent Production Lab
 
+[![CI](https://github.com/KIM3310/ai-agent-production-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/KIM3310/ai-agent-production-lab/actions/workflows/ci.yml)
+
 ## Live Demo
 
 - [Open the public Cloudflare Pages demo](https://ai-agent-production-lab.pages.dev/)
@@ -28,7 +30,7 @@ A production-readiness lab for agents that makes planning, tracing, cost, and ev
 
 - **Start here:** Read the trace/cost/eval loop before looking at individual tools.
 - **Local demo:** Run `python3 scripts/run_demo.py` and open the generated HTML report under `artifacts/`.
-- **Checks:** Run `python3 -m unittest discover -s tests` and `python3 -m agent_lab.evals examples/tasks.json`.
+- **Checks:** Run `make verify` (tests, fixture evaluation, and repository validators).
 
 ## Service Launch Playbook
 
@@ -64,7 +66,7 @@ flowchart LR
 ## Quick Start
 
 ```bash
-python3 -m unittest discover -s tests
+make verify
 python3 scripts/run_demo.py
 ```
 
@@ -101,8 +103,7 @@ tests/
 ## Verification
 
 ```bash
-python3 -m unittest discover -s tests
-python3 -m agent_lab.evals examples/tasks.json
+make verify
 ```
 
 All fixtures are synthetic.
