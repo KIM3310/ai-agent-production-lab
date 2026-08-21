@@ -1,3 +1,4 @@
+SHELL := /bin/bash
 .SHELLFLAGS := -eu -o pipefail -c
 VENV ?= .venv
 VENV_PYTHON := $(VENV)/bin/python
@@ -11,7 +12,7 @@ PYTHON ?= $(shell for py in $(PYTHON_CANDIDATES); do \
 	fi; \
 done)
 
-.PHONY: check-python install test verify pages-deploy
+.PHONY: check-python install test evaluate repository-verify verify pages-deploy
 
 check-python:
 	@if [ -z "$(PYTHON)" ]; then \
@@ -37,7 +38,14 @@ install: $(VENV_STAMP)
 test: install
 	$(VENV_PYTHON) -m pytest -q
 
-verify: test
+evaluate: install
+	$(VENV_PYTHON) -m agent_lab.evals examples/tasks.json
+
+repository-verify: check-python
+	$(PYTHON) scripts/validate_repository_surface.py
+	$(PYTHON) scripts/validate_architecture_blueprint.py
+
+verify: test evaluate repository-verify
 
 pages-deploy:
 	npx --yes wrangler@4 pages deploy site --project-name ai-agent-production-lab
